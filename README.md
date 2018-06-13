@@ -272,4 +272,4 @@ Copyright (c) 2012-2013, Christopher Jeffrey (MIT License)
 1. yarn init in an empty folder
 2. yarn add react-ex
 3. update code in dist
-4. npm publish
+4. npm publish (cannot maintain code in git so far)
