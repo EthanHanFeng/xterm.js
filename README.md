@@ -259,3 +259,11 @@ If you contribute code to this project, you are implicitly allowing your code to
 Copyright (c) 2017-2018, [The xterm.js authors](https://github.com/xtermjs/xterm.js/graphs/contributors) (MIT License)<br>
 Copyright (c) 2014-2017, SourceLair, Private Company ([www.sourcelair.com](https://www.sourcelair.com/home)) (MIT License)<br>
 Copyright (c) 2012-2013, Christopher Jeffrey (MIT License)
+
+
+
+
+### Change log after fork
+1. add try catch in handleWSMessage in /dist/addons/zmodem/zmodem.js
+2. removed demo in /dist/addons/zmodem
+3. changed import name into xterm-ex
