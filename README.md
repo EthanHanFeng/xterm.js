@@ -267,3 +267,9 @@ Copyright (c) 2012-2013, Christopher Jeffrey (MIT License)
 1. add try catch in handleWSMessage in /dist/addons/zmodem/zmodem.js
 2. removed demo in /dist/addons/zmodem
 3. changed import name into xterm-ex
+
+## Future update
+1. yarn init in an empty folder
+2. yarn add react-ex
+3. update code in dist
+4. npm publish
