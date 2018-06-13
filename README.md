@@ -263,7 +263,7 @@ Copyright (c) 2012-2013, Christopher Jeffrey (MIT License)
 
 
 
-### Change log after fork
+## Change log after fork
 1. add try catch in handleWSMessage in /dist/addons/zmodem/zmodem.js
 2. removed demo in /dist/addons/zmodem
 3. changed import name into xterm-ex
